@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ImpShrinkage"]
+	path = ImpShrinkage
+	url = https://github.com/mnrzrad/impshrinkage
+	shallow = true
+	registered = true
