@@ -5,3 +5,6 @@
 [submodule "ImpShrinkage"]
 	path = ImpShrinkage
 	url = https://github.com/mnrzrad/impshrinkage
+[submodule "TestIndVars"]
+	path = TestIndVars
+	url = https://github.com/mnrzrad/testindvars
